@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "geometric-vim-376207",
-  "private_key_id": "a7b659aa0fc6f79abc8c690d287f629747dbbb6e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDj7ia+KHo9poGF\nueD+QpdFaf5/wiDTfevSH9rmB7u46272hSyNN3JRlLmPRWRS+zmU9PTtFmtv10ce\n08TrFIRcn/m3yBZqDylc/iXDPSy/+7BXmfWemK+IM2LWqhm+eHT0dBzY7SJzrdC3\nk0gfwUtcRCGlj/Ef5Rya77eQPKutxpZxssFXGKuw5hmmnThOabUySvJ3eduUU4Z0\nEOmdPxp9t4QbdcZm0qX0vD+ywpMfXUxj4drkIl93mcMqDKbQugvqQbuG09BC+sKU\nBBJzHwzm6xRY5PwNgMzyyWTGr+SqvWpSKc5iiaJ8CrI0J1z1zGbhSI4zV/WUfgt+\nYxLILwXzAgMBAAECggEAY+b9Wjm5oo35lVhskmUzknwrzWmUI768fwPxWQOotxuS\nLkEezuKvm6xZTL+4glqU2YIoXEaIXqP4Cz38wKDkhwijVnc/w8rTcWv/tzx4Acna\nd/sGWjZIMaV8O+SglgiMEp1WC4qcoCFeKyhF441Ab7d5G+0kXbt5Nzu8tF6zTN27\nRvD7LKiUWhwdnZHj+0XRQAsmWKZGu9BbF0W2SytS4BDw8yR0fKcBNrbQlYwHCh14\nrpSBgHktqmUHy0EEGZ09MaebIsDx8GfipRRFiMs5BVp8mgWD0hs+OwHQ9ufWfUPn\nqCtJYoRZQCcs5HTeOQDjcEJeApXeX+Fl5A4jRmHtwQKBgQD2EE4sKfi7SlF+jd/Q\nNGB3r6Ymu61kzikldb+8+yNYz+CyVi0oaQiXsYL+HZgY5OUSIductwye4KeRT8KW\nIZWz05LpeY7Y+KBGzODRSwkunZW7dcAt0i9L80OwsNG56O/3B/OpvzBS2Ks38HgC\nhUxVUeYI+IR41G4JDZTL5i9wYQKBgQDtImQXbgZcewC62CY+X7HhFY5cUPtNcqiM\nXO3+2Aw/xdmXR6DeOEr2I9pSZYZ7EJre5kgVsEquFUBDVe/8yWckWI3SJYuUSq9M\nqznL8bAqRA/TCC5w48h+xtvW0X75L+GZ7p0L0dPtAObQ+TVuAvXvoWOWZRjna986\nDFANSccm0wKBgQC+3Sj14tyX0m7iPoRUCLynOe0kcEFwRuXts6c1nIvvcNe3HVdL\n2CUdHUkhea0n6iyxYufpaKd2eYYhFgA22fg4E64KQgsGy9vu7y6XyZ9mtD+XuB+I\nq1eajyh7Xrxfe4rfUCC2E6IVMRGmg3VjZygtqihH3xVKcGSlyw4XFwbHIQKBgHeC\nfplETRZss1h3OQb0aYx7tayW75//qixbZWKrdbjqOJhCdDOqgTT9qrkeC6GYI8U0\nn522pFyJv0JwXCu1QTMTIh6H54mL/j8QiGddXiBe/u6nT+h7E/+4rvDb0jc5x2Qx\n2porXLg0XR9yiVfxTAtB9hPEzcFMH0t9Cxc3WJQbAoGBAO7sZYUb/RxuYoUhpStt\ncduroJA/JTTvIRnrqZEFBuDN6G7fTKgBIRwDFtY31UzBP7R0UNP2bcMG9hhuNVbK\nBFLZFscBF7FAy9tKjfIe8V7MH04G41cpRKC4JqaW4LZ7knh6+ACeZb/Vdu71nFYU\nlXwczAM0oJ9NGe+pcO0RnFrm\n-----END PRIVATE KEY-----\n",
-  "client_email": "telegram-bot-service-account@geometric-vim-376207.iam.gserviceaccount.com",
-  "client_id": "108901518040983790842",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "type": 
+  "project_id": 
+  "private_key_id":
+  "private_key": 0BXmfWemK+IM2LWqhm+eHT0dBzY7SJzrdC3\nk0gfwUtcRCGlj/Ef5Rya77eQPKutxpZxssFXGKuw5hmmnThOabUySvJ3eduUU4Z0\nEOmdPxp9t4QbdcZm0qX0vD+ywpMfXUxj4drkIl93mcMqDKbQugvqQbuG09BC+sKU\nBBJzHwzm6xRY5PwNgMzyyWTGr+SqvWpSKc5iiaJ8CrI0J1z1zGbhSI4zV/WUfgt+\nYxLILwXzAgMBAAECggEAY+b9Wjm5oo35lVhskmUzknwrzWmUI768fwPxWQOotxuS\nLkEezuKvm6xZTL+4glqU2YIoXEaIXqP4Cz38wKDkhwijVnc/w8rTcWv/tzx4Acna\nd/sGWjZIMaV8O+SglgiMEp1WC4qcoCFeKyhF441Ab7d5G+0kXbt5Nzu8tF6zTN27\nRvD7LKiUWhwdnZHj+0XRQAsmWKZGu9BbF0W2SytS4BDw8yR0fKcBNrbQlYwHCh14\nrpSBgHktqmUHy0EEGZ09MaebIsDx8GfipRRFiMs5BVp8mgWD0hs+OwHQ9ufWfUPn\nqCtJYoRZQCcs5HTeOQDjcEJeApXeX+Fl5A4jRmHtwQKBgQD2EE4sKfi7SlF+jd/Q\nNGB3r6Ymu61kzikldb+8+yNYz+CyVi0oaQiXsYL+HZgY5OUSIductwye4KeRT8KW\nIZWz05LpeY7Y+KBGzODRSwkunZW7dcAt0i9L80OwsNG56O/3B/OpvzBS2Ks38HgC\nhUxVUeYI+IR41G4JDZTL5i9wYQKBgQDtImQXbgZcewC62CY+X7HhFY5cUPtNcqiM\nXO3+2Aw/xdmXR6DeOEr2I9pSZYZ7EJre5kgVsEquFUBDVe/8yWckWI3SJYuUSq9M\nqznL8bAqRA/TCC5w48h+xtvW0X75L+GZ7p0L0dPtAObQ+TVuAvXvoWOWZRjna986\nDFANSccm0wKBgQC+3Sj14tyX0m7iPoRUCLynOe0kcEFwRuXts6c1nIvvcNe3HVdL\n2CUdHUkhea0n6iyxYufpaKd2eYYhFgA22fg4E64KQgsGy9vu7y6XyZ9mtD+XuB+I\nq1eajyh7Xrxfe4rfUCC2E6IVMRGmg3VjZygtqihH3xVKcGSlyw4XFwbHIQKBgHeC\nfplETRZss1h3OQb0aYx7tayW75//qixbZWKrdbjqOJhCdDOqgTT9qrkeC6GYI8U0\nn522pFyJv0JwXCu1QTMTIh6H54mL/j8QiGddXiBe/u6nT+h7E/+4rvDb0jc5x2Qx\n2porXLg0XR9yiVfxTAtB9hPEzcFMH0t9Cxc3WJQbAoGBAO7sZYUb/RxuYoUhpStt\ncduroJA/JTTvIRnrqZEFBuDN6G7fTKgBIRwDFtY31UzBP7R0UNP2bcMG9hhuNVbK\nBFLZFscBF7FAy9tKjfIe8V7MH04G41cpRKC4JqaW4LZ7knh6+ACeZb/Vdu71nFYU\nlXwczAM0oJ9NGe+pcO0RnFrm\n-----END PRIVATE KEY-----\n",
+  "client_email": "
+  "client_id": 
+  "auth_uri": "https://accounts.go
   "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "auth_provider_x509_cert_url": "https://www.googleap
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegram-bot-service-account%40geometric-vim-376207.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
