@@ -1,13 +1,13 @@
 # config.py
 
 # Токен вашего бота Telegram
-TELEGRAM_BOT_TOKEN = '7473288953:AAF-IadF_V8f_wwic3dBBN1OqwXY6NTj-3o'
+TELEGRAM_BOT_TOKEN = '-------------------------------------'
 
 # Токен платежного провайдера, полученный через BotFather
-PAYMENT_PROVIDER_TOKEN = '1744374395:TEST:44c750690daed338409d'
+PAYMENT_PROVIDER_TOKEN = '--------------------------------------'
 
 # ID вашей Google Таблицы
-GOOGLE_SHEET_ID = '13fhqDC1m-3SZgy5tPJ_5lu2ozVCazvkqbZeDBukt2lY'
+GOOGLE_SHEET_ID = '-----------------------------------------Y'
 
 # Путь к файлу с учетными данными Google API
-GOOGLE_CREDENTIALS_FILE = 'geometric-vim-376207-a7b659aa0fc6.json'
+GOOGLE_CREDENTIALS_FILE = '-----------------------------------'
